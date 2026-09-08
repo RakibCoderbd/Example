@@ -6,5 +6,5 @@ ami huday github a rakhlam
 
 git hub brance a kishu 1 ta add krlam
 =======
-Feature-10 for some Update
+added some extra feature
 >>>>>>> ba359e4 (feature-10 Branch)
